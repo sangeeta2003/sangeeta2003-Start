@@ -3,6 +3,7 @@ public class Questions {
     // How many variables are in the class Vehicle?
     int question1() {
         return 3;   // currentSpeed, make, model
+        
     }
 
     // What line number represents the end of the accelerate method?
