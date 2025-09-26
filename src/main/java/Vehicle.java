@@ -8,7 +8,7 @@ public class Vehicle {
         this.currentSpeed += 5;
         return this.currentSpeed;
     }
-    
+
 
     String honk() {
         return "HONNNK";
